@@ -1,4 +1,4 @@
-# mlp_per_atomic_stresses
+# HeatFlux_MLP_LAMMPS
 
 - Si.mtp
   - Trained moment tensor potential for Silicon
